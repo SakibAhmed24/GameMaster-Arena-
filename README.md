@@ -1,53 +1,11 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GameMaster Arena</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1E1E2F;
-            color: #FFFFFF;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-        }
-        .header {
-            background: #007BFF;
-            padding: 20px;
-            font-size: 24px;
-        }
-        .section {
-            margin: 20px 0;
-            padding: 20px;
-            background: #2A2A3A;
-            border-radius: 10px;
-        }
-        .form-group {
-            margin: 10px 0;
-        }
-        .input-field {
-            padding: 10px;
-            width: 80%;
-            border-radius: 5px;
-            border: none;
-        }
-        .submit-btn {
-            background: #007BFF;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-        .contact {
-            margin-top: 20px;
-            font-size: 18px;
-        }
+        /* Styles for the home page */
     </style>
 </head>
 <body>
@@ -59,6 +17,19 @@
             <a href="login.html" class="submit-btn">Go to Login</a>
         </div>
     </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GameMaster Arena - Login</title>
+    <style>
+        /* Styles for the login page */
+    </style>
+</head>
+<body>
     <div class="header">GameMaster Arena - Free Fire Tournament</div>
     <div class="container">
         <div class="section">
